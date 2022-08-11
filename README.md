@@ -18,7 +18,7 @@ Flex-grow;
 Flex-basis;                                                                                                                                                           
 Flex-shrink;                                                                                                                                                            Flex;                                                                                                                                                                  
 Order;
-Align-self;                                                                                                                                                            
+Align-self.                                                                                                                                                            
 
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
 
