@@ -22,7 +22,7 @@ Align-self.
 
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
 
-Não deixe de ver o PROJETO FINAL aqui: 
+(color=f00&size=35&center=true&vCenter=Não deixe de ver o PROJETO FINAL aqui:) 
 
 Ferramenta usada:
 
