@@ -7,11 +7,17 @@ Ele contém vários index, cada um com o nome de seu respectivo tema, são eles:
 Parte 1:
 
 Align-content;
+
 Align-items;
+
 Display-flex;
+
 FlexDirection: row e row-reverse; column column-reverse;
+
 Flex-wrap;
+
 Flex-flow;
+
 Justify-content.
 
 Parte 2:
