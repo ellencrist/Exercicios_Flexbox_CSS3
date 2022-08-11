@@ -24,7 +24,7 @@ Align-self.
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
 
 ```diff
--Não deixe de ver o PROJETO FINAL aqui: 
+- Não deixe de ver o PROJETO FINAL aqui: 
 ```
 
 
