@@ -9,7 +9,7 @@ Ele contém vários index, cada um com o nome de seu respectivo tema, são eles:
 Align-content;                                                                                                                                                       
 Align-items;                                                                                                                                                           
 Display-flex;                                                                                                                                                           
-FlexDirection: row e row-reverse; column column-reverse;                                                                                                               
+FlexDirection                                                                                                            
 Flex-wrap;                                                                                                                                                             
 Flex-flow;                                                                                                                                                             
 Justify-content.                                                                                                                                                        
@@ -17,7 +17,8 @@ Justify-content.
 ### Parte 2:                                                                                                                                                         
 Flex-grow;                                                                                                                                                           
 Flex-basis;                                                                                                                                                           
-Flex-shrink;                                                                                                                                                            Flex;                                                                                                                                                                  
+Flex-shrink;                                                                                                                                                             
+Flex;                                                                                                                                                                  
 Order;                                                                                                                                                               
 Align-self.                                                                                                                                                        
                                                                                                                                                                     
