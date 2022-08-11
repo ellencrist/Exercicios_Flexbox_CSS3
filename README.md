@@ -27,6 +27,3 @@ Não deixe de ver o PROJETO FINAL aqui:
 Ferramenta usada:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-Extensões: 
-
-![Live Server](https://img.shields.io/badge/-live%20server%20-0D1117?style=for-the-badge&logo=live-server&logoColor=007ACC&labelColor=0D1117)&nbsp;
