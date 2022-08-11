@@ -22,5 +22,9 @@ Align-self;
 
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
 
-Não deixe de ver o PROJETO FINAL aqui:                                                                                                                                 
-Ferramenta usada:                                                                                                                                                      ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+Não deixe de ver o PROJETO FINAL aqui: 
+
+Ferramenta usada:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+Extensões: 
+![Live Server](https://img.shields.io/badge/-Live%20Server-0D1117?style=for-the-badge&logo=live-server&logoColor=007ACC&labelColor=0D1117)&nbsp;
