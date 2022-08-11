@@ -1,10 +1,11 @@
-# Exercicios_Flexbox_CSS3
-Curso: Posicionando elementos com Flexbox em CSS - Bootcamp Fullstack developer.
+# Exercicios de Flexbox com CSS3
+###### Curso: Posicionando elementos com Flexbox em CSS - Bootcamp Santander Fullstack developer.
+
 
 Contém os exercícios que fiz durante o Bootcamp Santander Fullstack no grupo de aulas de CSS3 para conseguir realizar o projeto integrador.
 Ele contém vários index, cada um com o nome de seu respectivo tema, são eles:
 
-Parte 1:                                                                                                                                                               
+### Parte 1:                                                                                                                                                         
 Align-content;                                                                                                                                                       
 Align-items;                                                                                                                                                           
 Display-flex;                                                                                                                                                           
@@ -13,16 +14,19 @@ Flex-wrap;
 Flex-flow;                                                                                                                                                             
 Justify-content.                                                                                                                                                        
 
-Parte 2:                                                                                                                                                               
+### Parte 2:                                                                                                                                                         
 Flex-grow;                                                                                                                                                           
 Flex-basis;                                                                                                                                                           
 Flex-shrink;                                                                                                                                                            Flex;                                                                                                                                                                  
-Order;
+Order;                                                                                                                                                               
 Align-self.                                                                                                                                                            
 
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
-<font color="red">This is some text!</font>
-Não deixe de ver o PROJETO FINAL aqui:
+
+```diff
+-Não deixe de ver o PROJETO FINAL aqui: 
+```
+
 
 Ferramenta usada:
 
