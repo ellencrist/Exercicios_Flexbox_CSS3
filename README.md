@@ -19,14 +19,11 @@ Flex-grow;
 Flex-basis;                                                                                                                                                           
 Flex-shrink;                                                                                                                                                            Flex;                                                                                                                                                                  
 Order;                                                                                                                                                               
-Align-self.                                                                                                                                                            
-
+Align-self.                                                                                                                                                        
+                                                                                                                                                                    
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
 
-```diff
-- Não deixe de ver o PROJETO FINAL aqui: 
-```
-
+### Acesse o projeto final: [Projeto Integrador](https://github.com/ellencrist/Exerc-cios_Flexbox_CSS3-/edit/main/README.md)
 
 Ferramenta usada:
 
