@@ -5,7 +5,6 @@ Contém os exercícios que fiz durante o Bootcamp Santander Fullstack no grupo d
 Ele contém vários index, cada um com o nome de seu respectivo tema, são eles:
 
 Parte 1:
-
 Align-content;                                                                                                                                                       
 Align-items;                                                                                                                                                           
 Display-flex;                                                                                                                                                           
@@ -15,13 +14,11 @@ Flex-flow;
 Justify-content.                                                                                                                                                        
 
 Parte 2:
-
-Flex-grow;
-Flex-basis;
-Flex-shrink;
-Flex;
+Flex-grow;                                                                                                                                                           
+Flex-basis;                                                                                                                                                           
+Flex-shrink;                                                                                                                                                            Flex;                                                                                                                                                                  
 Order;
-Align-self;
+Align-self;                                                                                                                                                            
 
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
 
