@@ -1,4 +1,4 @@
-# Exercicios de Flexbox com CSS3 - Minha evolução
+# Exercicios de Flexbox com CSS3
 ###### Curso: Posicionando elementos com Flexbox em CSS - Bootcamp Santander Fullstack developer.
 
 Contém os exercícios que fiz durante o Bootcamp Santander Fullstack no grupo de aulas de CSS3 para conseguir realizar o projeto integrador.
