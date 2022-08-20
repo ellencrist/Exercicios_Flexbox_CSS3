@@ -23,7 +23,7 @@ Align-self.
                                                                                                                                                                     
 Cada index contém uma breve descrição do que ele faz no código e em seguida sua demonstração prática.
 
-### Acesse o projeto final: [Projeto Integrador](https://github.com/ellencrist/landing_page_Turismo)
+### Acesse o projeto final: [Projeto Integrador](https://github.com/ellencrist/Flex-Turismo)
 
 Ferramenta usada:
 
